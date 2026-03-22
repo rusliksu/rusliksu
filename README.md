@@ -16,3 +16,4 @@
 | [reactive-playground](https://github.com/rusliksu/reactive-playground) | Reactive Stock/Crypto Tracker | Spring WebFlux, R2DBC, Reactor Kafka, Testcontainers |
 | [ai-learning](https://github.com/rusliksu/ai-learning) | ML/AI: from fundamentals to production RAG | Python, LangGraph, multi-agent systems |
 | [massing-generator](https://github.com/rusliksu/massing-generator) | Automated residential massing: DXF in → buildings out | Python, Shapely, ezdxf, Russian building codes |
+| [tm-tierlist](https://github.com/rusliksu/tm-tierlist) | [684-card tier list](https://rusliksu.github.io/tm-tierlist/) for Terraforming Mars | Python, data analysis, GitHub Pages |
