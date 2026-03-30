@@ -1,4 +1,4 @@
-### Senior Java Backend Developer / AI Engineer
+### Java Backend Developer / AI Engineer
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
@@ -8,7 +8,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -18,5 +17,4 @@
 | [massing-generator](https://github.com/rusliksu/massing-generator) | Automated residential massing: DXF in -> buildings out | Python, Shapely, ezdxf, Russian building codes |
 | [bim-assistant](https://github.com/rusliksu/bim-assistant) | AI-powered BIM queries: natural language -> SQL over IFC models | Python, FastAPI, SQLite, ifcopenshell |
 | [tm-advisor](https://github.com/rusliksu/tm-advisor) | Game advisor: Elo ratings, strategy detection, 684 card evaluations | JavaScript, Chrome Extension, data analysis |
-| [terraforming-mars](https://github.com/rusliksu/terraforming-mars) | Terraforming Mars with AI bot and custom server | TypeScript, Node.js, Vue.js |
 | [tm-tierlist](https://github.com/rusliksu/tm-tierlist) | [684-card tier list](https://rusliksu.github.io/tm-tierlist/) for Terraforming Mars | Python, data analysis, GitHub Pages |
