@@ -1,16 +1,23 @@
-### Senior Java Backend Developer building AI-assisted systems
+### Java Backend Developer building AI-assisted systems
 
-Spring Boot, PostgreSQL, Kafka, gRPC. Also working with Python, RAG, LangGraph, and automation tooling.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat&logo=google&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-#### Selected projects
-
-- [bart-exchange-ai](https://github.com/rusliksu/bart-exchange-ai) - barter exchange platform with AI-powered recommendations. `Java 21`, `Spring Boot`, `Spring AI`, `130+ tests`
-- [reactive-playground](https://github.com/rusliksu/reactive-playground) - real-time stock and crypto tracker. `Spring WebFlux`, `R2DBC`, `Reactor Kafka`, `Testcontainers`
-- [ai-learning](https://github.com/rusliksu/ai-learning) - hands-on ML/RAG learning repo, from fundamentals to multi-agent systems. `Python`, `LangGraph`, `notebooks`
-- [massing-generator](https://github.com/rusliksu/massing-generator) - residential massing generator for DXF/DWG site boundaries. `Python`, `Shapely`, `ezdxf`, `building-code constraints`
-- [bim-assistant](https://github.com/rusliksu/bim-assistant) - natural language BIM queries over IFC models via LLM-generated SQL. `FastAPI`, `SQLite`, `ifcopenshell`
-- [autolisp-bot](https://github.com/rusliksu/autolisp-bot) - AI-powered AutoLISP generator for structural engineering workflows
-- [tm-advisor](https://github.com/rusliksu/tm-advisor) - Terraforming Mars advisor with Elo MMR, strategy detection, Chrome extension, and 684-card evaluations. `JavaScript`, `Python`
-- [tm-tierlist](https://github.com/rusliksu/tm-tierlist) - site-only repo for [Terraforming Mars guides and tierlists](https://rusliksu.github.io/tm-tierlist/). `HTML`, `GitHub Pages`, `site tooling`
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [bart-exchange-ai](https://github.com/rusliksu/bart-exchange-ai) | Barter exchange platform with AI-powered recommendations | Java 21, Spring Boot, Spring AI, 130+ tests |
+| [reactive-playground](https://github.com/rusliksu/reactive-playground) | Real-time stock and crypto tracker | Spring WebFlux, R2DBC, Reactor Kafka, Testcontainers |
+| [ai-learning](https://github.com/rusliksu/ai-learning) | Hands-on AI/ML and RAG learning repo, from fundamentals to multi-agent systems | Python, LangGraph, notebooks |
+| [massing-generator](https://github.com/rusliksu/massing-generator) | Residential massing generator for DXF/DWG site boundaries | Python, Shapely, ezdxf, building-code constraints |
+| [bim-assistant](https://github.com/rusliksu/bim-assistant) | Natural language BIM queries over IFC models via LLM-generated SQL | FastAPI, SQLite, ifcopenshell |
+| [autolisp-bot](https://github.com/rusliksu/autolisp-bot) | AI-powered AutoLISP generator for structural engineering workflows | AI tooling, AutoLISP |
+| [tm-advisor](https://github.com/rusliksu/tm-advisor) | Terraforming Mars advisor with Elo MMR, strategy detection, Chrome extension, and 684-card evaluations | JavaScript, Python |
+| [tm-tierlist](https://github.com/rusliksu/tm-tierlist) | Site-only repo for [Terraforming Mars guides and tierlists](https://rusliksu.github.io/tm-tierlist/) | HTML, GitHub Pages, site tooling |
 
 **Focus:** `Java backend`, `distributed systems`, `AI-assisted products`, `RAG`, `automation`
