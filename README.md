@@ -1,4 +1,4 @@
-### Java Backend Developer building AI-assisted systems
+### Java Backend Developer focused on distributed and AI-assisted systems
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
@@ -9,7 +9,7 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-Spring Boot, PostgreSQL, Kafka, gRPC. Also working with Python, RAG, LangGraph, and automation tooling.
+Java 17, Spring Boot 3, PostgreSQL, Kafka, and gRPC. Also working with Python, RAG, LangGraph, and automation tooling.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -19,7 +19,6 @@ Spring Boot, PostgreSQL, Kafka, gRPC. Also working with Python, RAG, LangGraph, 
 | [massing-generator](https://github.com/rusliksu/massing-generator) | Residential massing generator for DXF/DWG site boundaries | Python, Shapely, ezdxf, building-code constraints |
 | [bim-assistant](https://github.com/rusliksu/bim-assistant) | Natural language BIM queries over IFC models via LLM-generated SQL | FastAPI, SQLite, ifcopenshell |
 | [autolisp-bot](https://github.com/rusliksu/autolisp-bot) | AI-powered AutoLISP generator for structural engineering workflows | AI tooling, AutoLISP, engineering automation |
-| [tm-advisor](https://github.com/rusliksu/tm-advisor) | Terraforming Mars advisor with Elo MMR, strategy detection, Chrome extension, and 684-card evaluations | JavaScript, Python |
-| [tm-tierlist](https://github.com/rusliksu/tm-tierlist) | Site-only repo for [Terraforming Mars guides and tierlists](https://rusliksu.github.io/tm-tierlist/) | HTML, GitHub Pages, site tooling |
+| [tm-tierlist](https://github.com/rusliksu/tm-tierlist) | Terraforming Mars guides and tierlists | HTML, site tooling |
 
 **Focus:** `Java backend`, `distributed systems`, `AI-assisted products`, `RAG`, `automation`
