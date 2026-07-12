@@ -9,7 +9,7 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-Java 17, Spring Boot 3, PostgreSQL, Kafka, and gRPC. Also working with Python, RAG, LangGraph, and automation tooling.
+Java 21, Spring Boot 3, PostgreSQL, Kafka, and gRPC. Also working with Python, RAG, LangGraph, and automation tooling.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
