@@ -9,6 +9,8 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+[![bart-exchange-ai CI](https://github.com/rusliksu/bart-exchange-ai/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/rusliksu/bart-exchange-ai/actions/workflows/ci.yml)
+
 I build Java backend services and AI-assisted products. My current focus is reliable distributed systems, RAG pipelines, LangGraph workflows, and practical AI agents.
 
 #### Selected projects
