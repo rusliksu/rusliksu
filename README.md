@@ -1,4 +1,4 @@
-### Java Backend Developer focused on distributed and AI-assisted systems
+### Java Backend Developer building distributed and AI-agent systems
 
 ![Java 21](https://img.shields.io/badge/Java_21-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot 3](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat&logo=spring-boot&logoColor=white)
@@ -9,16 +9,16 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-Java 21, Spring Boot 3, PostgreSQL, Kafka, and gRPC. Also working with Python, RAG, LangGraph, and automation tooling.
+I build Java backend services and AI-assisted products. My current focus is reliable distributed systems, RAG pipelines, LangGraph workflows, and practical AI agents.
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [bart-exchange-ai](https://github.com/rusliksu/bart-exchange-ai) | Barter exchange platform with AI-powered recommendations | Java 21, Spring Boot, Spring AI, 130+ tests |
-| [reactive-playground](https://github.com/rusliksu/reactive-playground) | Real-time stock and crypto tracker | Spring WebFlux, R2DBC, Reactor Kafka, Testcontainers |
-| [ai-learning](https://github.com/rusliksu/ai-learning) | Hands-on AI/ML and RAG repo, from fundamentals to multi-agent systems | Python, LangGraph, notebooks |
-| [massing-generator](https://github.com/rusliksu/massing-generator) | Residential massing generator for DXF/DWG site boundaries | Python, Shapely, ezdxf, building-code constraints |
-| [bim-assistant](https://github.com/rusliksu/bim-assistant) | Natural language BIM queries over IFC models via LLM-generated SQL | FastAPI, SQLite, ifcopenshell |
-| [autolisp-bot](https://github.com/rusliksu/autolisp-bot) | AI-powered AutoLISP generator for structural engineering workflows | AI tooling, AutoLISP, engineering automation |
-| [tm-tierlist](https://github.com/rusliksu/tm-tierlist) | Terraforming Mars guides and tierlists | HTML, site tooling |
+#### Selected projects
 
-**Focus:** `Java backend`, `distributed systems`, `AI-assisted products`, `RAG`, `automation`
+| Project | What it demonstrates | Stack |
+|---------|----------------------|-------|
+| [bart-exchange-ai](https://github.com/rusliksu/bart-exchange-ai) | Java product with AI-powered recommendations and a substantial automated test suite | Java 21, Spring Boot 3, Spring AI, PostgreSQL |
+| [reactive-playground](https://github.com/rusliksu/reactive-playground) | Reactive backend for real-time market data and event-driven processing | WebFlux, R2DBC, Reactor Kafka, Testcontainers |
+| [ai-learning](https://github.com/rusliksu/ai-learning) | Hands-on path from ML fundamentals and RAG to LangGraph multi-agent systems | Python, LangGraph, Jupyter |
+| [tm-tierlist](https://github.com/rusliksu/tm-tierlist) | A maintained content product with automated site checks | HTML, JavaScript, GitHub Actions |
+
+**Backend:** `Java 21` · `Spring Boot 3` · `PostgreSQL` · `Kafka` · `gRPC`<br>
+**AI:** `AI agents` · `RAG` · `LangGraph` · `Spring AI` · `automation`
